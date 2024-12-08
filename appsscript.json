@@ -1,0 +1,21 @@
+{
+  "timeZone": "Europe/Paris",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "bibliho_sheet",
+        "libraryId": "17BQzouo4YGdovV3Gkd1wAYeC0hxA60m1SB56Frz8qco1E4LZG9KTDK0V",
+        "version": "0",
+        "developmentMode": true
+      },
+      {
+        "userSymbol": "CrationDeContra",
+        "version": "0",
+        "libraryId": "1J6SArJ5PRNVTKEhpTtTWF7LkLFDRMbubW4xj9-_E8AR7LqdNCoIdgdh3",
+        "developmentMode": true
+      }
+    ]
+  }
+}
